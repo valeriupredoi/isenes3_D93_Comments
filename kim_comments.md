@@ -4,12 +4,14 @@
 - Section 2.1, Paragraph 2
 - Kim: "What happens to ESMValTool users that are not using these environments?"
 - V inserted: "We are currently working on an extension of the observational data handler in ESMValTool, meant for users that don’t have access to th  ese HPC clusters, that will allow the local download of OBS data requested by the user."
+- NOTE that this is detailed in Conclusions and Reccomendations below
 
 ### Comment 2
 - Section 2.2, Paragraph 2
 - Kim: "Is there a way to list the data downloaded by the user? This would be helpful to forward it to data managers to complete the ESGF da  taset."
 - V answer off-document: no, there isn't since that would (probably) disagree with data privacy protocols; but we are working closer with CEDA on reporting these missing datasets, see https://github.com/ESMValGroup/ESMValCore/issues/1397
 - V inserted: "We have started establishing a liaison mechanism between users requiring missing data (and eventually downloading it with ESM  ValTool) and HPC staff responsible for data replication, just so that we avoid such cases."
+- NOTE that this is detailed in Conclusions and Reccomendations below
 
 ### Comment 3
 - Section 2.2, Paragraph 2
