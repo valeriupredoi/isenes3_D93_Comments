@@ -1,9 +1,8 @@
 ## Comments sent on 8 December 2021 and addressed
 
--  Page 1
-  - Ag Stephens affiliation:
-    - not "UK Met Office"
-    - change to "UKRI CEDA"
+-  Page 1: Ag Stephens affiliation:
+  - not "UK Met Office"
+  - change to "UKRI CEDA"
 
 - Page 6
   - Typo: "pyesgf-client" should be "esgf-pyclient"
