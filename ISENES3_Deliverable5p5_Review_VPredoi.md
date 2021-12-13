@@ -1,5 +1,5 @@
 ## Deliverable 5.5 Review Notes
-**V Predoi, 13 december 2021**
+**V Predoi, 13 December 2021**
 
 Legend: "->" means suggested change, "-->>" means well recommended change
 
@@ -14,9 +14,9 @@ Legend: "->" means suggested change, "-->>" means well recommended change
 - Section 2.2 (page 6): of the recommendations from the style guide have been embraced by the ESMValTool -> of the recommendations from the style guide have been adopted by the ESMValTool
 - Section 3.1 (page 6): The ESMValTool community has embraced the recommendations -> The ESMValTool community has adopted the recommendations
 - Section 3.1 (page 6): This increase in popularity is because the tool is now more user-friendly -> This increase in popularity is a consequence of the tool being more user-friendly
-- Section 3.1 (page 6): it is easier to install and run, it runs faster and more reliably, and it has a more accessible community -> chan you support these statements with estimations of improvement (briefly, but they need some sort of support, otherwise it sounds empty)
+- Section 3.1 (page 6): it is easier to install and run, it runs faster and more reliably, and it has a more accessible community -> can you support these statements with estimations of improvement (briefly, but they need some sort of support, otherwise it sounds empty)
 - Section 3.2 (page 6): getting the science done -> performing the scientific analysis process
 - Section 3.2 (page 6): This balance has been found by the many discussions -->> This balance has been found through the many discussions
 - Section 3.2 (page 6): on the topic -> on this topic -> also, what topic?
-- User Guide Point 10 (page 9): subesctions not consistent with the main report (coloured and underlined): maybe remove that formatting and just use bullets instead?
+- User Guide Point 10 (page 9): subsections are not consistent with the main report (coloured and underlined): maybe remove that formatting and just use bullets instead?
 
